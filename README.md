@@ -14,4 +14,3 @@ Proyecto backend desarrollado en NestJS con integración completa a MongoDB Atla
    npm install
 3.Levantar el servidor en entorno de desarrollo:
    npm run start:dev
-4. 
